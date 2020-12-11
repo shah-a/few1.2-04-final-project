@@ -15,14 +15,15 @@ function List() {
 
   fighters = fighters.map(fighter => {
     return (
-      <Fighter
-        key={fighter.id}
-        id={fighter.id}
-        name={fighter.name}
-        image={fighter.image}
-        series={fighter.series}
-        icon={fighter.icon}
-      />
+        <Fighter
+          className="Fighter"
+          key={fighter.id}
+          id={fighter.id}
+          name={fighter.name}
+          image={fighter.image}
+          series={fighter.series}
+          icon={fighter.icon}
+        />
     );
   });
 

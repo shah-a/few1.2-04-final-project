@@ -1,0 +1,36 @@
+.List {
+  min-height: 70vh;
+}
+
+.List .grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 2em;
+  max-width: 1200px;
+  margin: auto;
+  padding: 2em;
+}
+
+@media only screen and (max-width: 960px) {
+  .List .grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .List .grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.List .form {
+  text-align: center;
+}
+
+.List .form input {
+  padding: 0.5em;
+  margin: 0;
+  min-width: 200px;
+  font-size: 1em;
+  border-radius: 0.5em;
+}

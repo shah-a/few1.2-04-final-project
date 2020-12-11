@@ -1,0 +1,78 @@
+.Fighter {
+  width: 100%;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 0.5em;
+  background-color: rgb(230, 0, 18);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.Fighter .portrait {
+  position: relative;
+}
+
+.Fighter .portrait img {
+  width: 100%;
+  height: auto;
+  border-radius: 0.5em;
+  background-image: url(https://www.smashbros.com/assets_v2/img/top/bg_cover.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.Fighter .name {
+  display: inline-block;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  font-size: 2em;
+  text-shadow:
+  -2px -2px 0 #000,
+  2px -2px 0 #000,
+  -2px 2px 0 #000,
+  2px 2px 0 #000;
+}
+
+.Fighter h1 {
+  margin: 0;
+  text-align: left;
+  font-weight: 500;
+  padding: 0.5rem;
+}
+
+.Fighter .info {
+  text-align: left;
+  padding: 0.5em;
+  position: relative;
+}
+
+.Fighter .info p {
+  margin: 0;
+  font-size: 1em;
+  font-weight: 100;
+}
+
+.Fighter .info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.Fighter .info h2 {
+  margin: 0;
+  font-size: 2.5em;
+}
+
+.Fighter .Link {
+  color: white;
+  text-decoration: none;
+  transition: all 0.2s;
+}
+
+.Fighter .Link:hover {
+  color: rgb(230, 0, 18);
+}

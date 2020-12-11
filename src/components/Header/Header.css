@@ -1,3 +1,22 @@
 .Header {
+  box-sizing: border-box;
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+  align-items: baseline;
   padding: 1em;
+  margin-bottom: 2em;
+  background-color: rgb(230, 0, 18);
+}
+
+.Header .title {
+  max-width: 400px;
+}
+
+.Header .subtitle {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.Header p {
+  margin: 0;
 }

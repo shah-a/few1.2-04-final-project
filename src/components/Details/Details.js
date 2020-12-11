@@ -7,14 +7,22 @@ function Details(props) {
 
   return (
     <div className="Details">
+      <div className="info">
+        <img
+          className="logo"
+          src={`${process.env.PUBLIC_URL}/assets/logos/${logo}`}
+          alt={logo}
+        />
+        <h1 className="name">{`${id}: ${name}`}</h1>
+        <p className="series">{series}</p>
+        <p className="description">{description}</p>
+      </div>
       <div className="image">
-        <img src={`${process.env.PUBLIC_URL}/assets/logos/${logo}`} alt="{logo}" />
-        <img src={`${process.env.PUBLIC_URL}/assets/fighters/${image}`} alt={image} />
-        <div className="info">
-          <h1 className="name">{`${id}: ${name}`}</h1>
-          <p className="description">{description}</p>
-          <p className="series">{series}</p>
-        </div>
+        <img
+          className="portrait"
+          src={`${process.env.PUBLIC_URL}/assets/fighters/${image}`}
+          alt={image}
+        />
       </div>
     </div>
   );
