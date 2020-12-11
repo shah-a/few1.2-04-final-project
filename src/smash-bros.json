@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Mario",
+    "image": "mario.png",
+    "description": "Mario is an all-around fighter who uses his wide variety of techniques to respond to any situation. In Super Smash Bros. Ultimate, he shows up in his Wedding tux and his Builder outfit, and Cappy even makes an appearance!",
+    "original_series": "Super Mario",
+    "series_icon": "mario.png",
+    "series_logo": "mario.png"
+  },
+  {
+    "id": 2,
+    "name": "Donkey Kong",
+    "image": "donkey_kong.png",
+    "description": "His charged punch is one of the strongest attacks in the game! In Super Smash Bros. Ultimate, his Final Smash has been updated from Konga Beat to a flurry of punches!",
+    "original_series": "Donkey Kong",
+    "series_icon": "dk.png",
+    "series_logo": "dk.png"
+  },
+  {
+    "id": 3,
+    "name": "Link",
+    "image": "link.png",
+    "description": "Link has been redesigned to match his appearance in The Legend of Zelda: Breath of the Wild. He can now pick up arrows he's fired, and his bombs have been upgraded to remote bombs, so you can set them off when the timing is just right!",
+    "original_series": "The Legend of Zelda",
+    "series_icon": "zelda.png",
+    "series_logo": "zelda.png"
+  },
+  {
+    "id": 4,
+    "name": "Samus",
+    "image": "samus.png",
+    "description": "With her Charge Shot, Missile, and Bomb, Samus has three different projectiles to keep her opponents in check from a distance. When fully charged up, her Charge Shot is quite powerful. For her Final Smash, she launches a wide laser beam that can be moved up and down!",
+    "original_series": "Metroid",
+    "series_icon": "metroid.png",
+    "series_logo": "metroid.png"
+  },
+  {
+    "id": 5,
+    "name": "Yoshi",
+    "image": "yoshi.png",
+    "description": "Yoshi is all about egg-related moves, like throwing eggs, swallowing opponents and turning them into eggs, or turning into an egg and charging toward an opponent. With a high jump, recovery is a piece of cake for Yoshi! And for his Final Smash, a Yoshi army stampedes through the stage.",
+    "original_series": "Yoshi",
+    "series_icon": "yoshi.png",
+    "series_logo": "yoshi.png"
+  },
+  {
+    "id": 6,
+    "name": "Kirby",
+    "image": "kirby.png",
+    "description": "Kirby's ability to copy other fighters is totally unique! While he is light and can be launched easily, he can also jump up to five times in the air, so he has great recovery. Look for his new Stone transformation, too.",
+    "original_series": "Kirby",
+    "series_icon": "kirby.png",
+    "series_logo": "kirby.png"
+  },
+  {
+    "id": 7,
+    "name": "Fox",
+    "image": "fox.png",
+    "description": "He can overwhelm his opponents with his quick movements, and his specials don't leave him open for counterattacks. His costume and voice have been redone to match his appearance in Star Fox Zero. This Fox is brand new! \"Come on!\"",
+    "original_series": "Star Fox",
+    "series_icon": "star_fox.png",
+    "series_logo": "star_fox.png"
+  },
+  {
+    "id": 8,
+    "name": "Pikachu",
+    "image": "pikachu.png",
+    "description": "This fierce fighter uses electric moves like Thunder Jolt and Thunder. Pikachu Libre is one of the alternate costumes and you can tell she's female by the shape of her tail.",
+    "original_series": "Pokémon",
+    "series_icon": "pokemon.png",
+    "series_logo": "pokemon.png"
+  },
+  {
+    "id": 9,
+    "name": "Luigi",
+    "image": "luigi.png",
+    "description": "He can jump higher than his brother, Mario. His Up Special, Super Jump Punch, will gain maximum damage and launching power when hitting the opponent right at the start. It truly is a \"Special\" move. He also uses his new Poltergust for his throw!",
+    "original_series": "Super Mario",
+    "series_icon": "mario.png",
+    "series_logo": "mario.png"
+  },
+  {
+    "id": 10,
+    "name": "Ness",
+    "image": "ness.png",
+    "description": "Ness has a variety of moves, from long-range attacks using psychic powers known as \"PSI,\" to short-range attacks with his bat and yo-yo.  Ness can also unleash PK Thunder, a guided attack that can launch him like a rocket or help him recover!",
+    "original_series": "EarthBound",
+    "series_icon": "earthbound.png",
+    "series_logo": "earthbound.png"
+  },
+  {
+    "id": 11,
+    "name": "Captain Falcon",
+    "image": "captain_falcon.png",
+    "description": "A fighter that possesses both speed and power! But in exchange, he is frequently left open. Being able to successfully land his neutral special, Falcon Punch, can greatly influence the battle in multiplayer matches.",
+    "original_series": "F-Zero",
+    "series_icon": "f_zero.png",
+    "series_logo": "f_zero.png"
+  },
+  {
+    "id": 12,
+    "name": "Jigglypuff",
+    "image": "jigglypuff.png",
+    "description": "Jigglypuff can jump 5 times in the air and can move faster in the air than on the ground. Use Jigglypuff's great aerial ability to overwhelm your opponent! If you manage to land the down special Rest, you can powerfully launch your opponent.",
+    "original_series": "Pokémon",
+    "series_icon": "pokemon.png",
+    "series_logo": "pokemon.png"
+  }
+]
