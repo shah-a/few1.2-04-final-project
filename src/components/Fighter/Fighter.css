@@ -17,7 +17,7 @@
 .Fighter .portrait img {
   width: 100%;
   height: auto;
-  border-radius: 0.5em;
+  border-radius: 0.3em;
   background-image: url(https://www.smashbros.com/assets_v2/img/top/bg_cover.png);
   background-size: cover;
   background-position: center;
